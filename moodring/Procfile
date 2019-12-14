@@ -1,0 +1,1 @@
+web: gunicorn moodring.wsgi --log-file -
